@@ -208,7 +208,7 @@ A Netflix-inspired responsive web application created to practice frontend devel
 
 ---
 
-## 🐄 Pashu Aahar — AI-Powered Cattle Nutrition Calculator
+## 🐄 Cattle Care — AI-Powered Cattle Nutrition Calculator
 
 An Android-based application designed to provide cattle nutrition recommendations using AI-powered functionality.
 
