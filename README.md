@@ -142,6 +142,8 @@ During my internship, I worked with:
 ---
 
 # 🚀 Featured Projects
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30ddef1f-c094-40d6-9649-165d204fce14" />
+
 
 ## 🎬 SRH CinePass — Movie Ticket Booking Application
 
