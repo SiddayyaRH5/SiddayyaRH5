@@ -259,12 +259,6 @@ Java Full Stack Developer 🚀
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SiddayyaRH5&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 # 🐍 Contribution Snake
